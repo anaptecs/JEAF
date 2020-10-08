@@ -9,5 +9,5 @@
 
 # Documentation
 For further information please visit project documentation
-- Overview: https://confluence.anaptecs.de/confluence/display/JEAF/Welcome+to+JEAF
-- Developer Guide: https://confluence.anaptecs.de/confluence/display/JEAF/Developer+Guide
+- [Project Website / Overview](https://confluence.anaptecs.de/confluence/display/JEAF/Welcome+to+JEAF)
+- [Developer Guide](https://confluence.anaptecs.de/confluence/x/QAADB)

@@ -7,6 +7,7 @@
 
 - JEAF is optimized to provide lightning fast startup times in combination with low garbage and high throughput
 
+# Documentation
 For further information please visit project documentation
 - Overview: https://confluence.anaptecs.de/confluence/display/JEAF/Welcome+to+JEAF
 - Developer Guide: https://confluence.anaptecs.de/confluence/display/JEAF/Developer+Guide
